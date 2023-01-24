@@ -1,0 +1,60 @@
+
+.encabezado-1{
+    display: flex;
+    width: 1700px;
+    justify-content: center;
+    color: red;
+    background-color: black;
+    border: 5px;
+    border-radius: 2px;
+    justify-content: center;
+    font-size: 60px;
+    font-family: "Source Sans Pro", "Arial", sans-serif;
+}
+li{
+    font-size: 20px;
+}
+#servicio-1 {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    
+}
+#servicio-2 {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#servicio-3 {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#servicio-4 {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#servicio-5 {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.imagenes-del-fondo{
+display: flex;
+flex-direction: row;
+height: 300px;
+width: 300px;
+gap: 5px;
+}
+.contenedor-final{
+    font-weight: bold;
+    font-size: 500px;
+}
